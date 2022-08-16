@@ -1,0 +1,108 @@
+﻿body {
+}
+
+.contentplace{
+    position:relative;
+    height:550px;
+    width:1000px;
+}
+
+.Gridview1 {
+    /*width: 330px;*/
+    /*margin-left:10px*/
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 320px;
+}
+
+/*.Gridview2 {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 420px;
+}*/
+.Persona-style{
+    width:300px;
+}
+
+/*.user-style {
+    width: 385px;
+}*/
+
+.PadreButtons{
+    width:327px
+}
+.PadreButtons2{
+    width:320px;
+}
+
+.register-style {
+    position: absolute;
+    bottom:100px;
+    right:300px;
+    text-align: center;
+}
+
+.registro-estilo {
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #1883ba;
+    border-radius: 6px;
+    border: 2px solid #0016b0;
+}
+    .registro-estiloestilo:hover {
+        color: #1883ba;
+        background-color: #ffffff;
+    }
+
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 5px 5px;
+    text-decoration: none;
+    text-align: center;
+    display: inline-block;
+    font-size: 15px;
+    margin: 3px 1px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+
+.button1 {
+    background-color: white;
+    color: black;
+    border: 2px solid #4CAF50;
+}
+
+    .button1:hover {
+        background-color: #4CAF50;
+        color: white;
+    }
+
+.button2 {
+    background-color: white;
+    color: black;
+    border: 2px solid #008CBA;
+}
+
+    .button2:hover {
+        background-color: #008CBA;
+        color: white;
+    }
+
+.button3 {
+    background-color: white;
+    color: black;
+    border: 2px solid #f44336;
+}
+
+    .button3:hover {
+        background-color: #f44336;
+        color: white;
+    }

@@ -1,0 +1,7 @@
+C:\Users\enriq\OneDrive\Documentos\Universidad\2022\2do Cuatrimestre\Programación2_C#\ProyectoFinal\PresupuestoFamiliar\PresupuestoFamiliar\bin\PresupuestoFamiliar.dll.config
+C:\Users\enriq\OneDrive\Documentos\Universidad\2022\2do Cuatrimestre\Programación2_C#\ProyectoFinal\PresupuestoFamiliar\PresupuestoFamiliar\bin\PresupuestoFamiliar.dll
+C:\Users\enriq\OneDrive\Documentos\Universidad\2022\2do Cuatrimestre\Programación2_C#\ProyectoFinal\PresupuestoFamiliar\PresupuestoFamiliar\bin\PresupuestoFamiliar.pdb
+C:\Users\enriq\OneDrive\Documentos\Universidad\2022\2do Cuatrimestre\Programación2_C#\ProyectoFinal\PresupuestoFamiliar\PresupuestoFamiliar\obj\Debug\PresupuestoFamiliar.csproj.AssemblyReference.cache
+C:\Users\enriq\OneDrive\Documentos\Universidad\2022\2do Cuatrimestre\Programación2_C#\ProyectoFinal\PresupuestoFamiliar\PresupuestoFamiliar\obj\Debug\PresupuestoFamiliar.csproj.CoreCompileInputs.cache
+C:\Users\enriq\OneDrive\Documentos\Universidad\2022\2do Cuatrimestre\Programación2_C#\ProyectoFinal\PresupuestoFamiliar\PresupuestoFamiliar\obj\Debug\PresupuestoFamiliar.dll
+C:\Users\enriq\OneDrive\Documentos\Universidad\2022\2do Cuatrimestre\Programación2_C#\ProyectoFinal\PresupuestoFamiliar\PresupuestoFamiliar\obj\Debug\PresupuestoFamiliar.pdb
